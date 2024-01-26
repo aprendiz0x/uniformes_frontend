@@ -1,0 +1,62 @@
+body {
+    font-family: Roboto, sans-serif;
+    color: black;
+}
+
+.navbar {
+    background-color: #344E41;
+    color: white;
+}
+
+.navbar-brand, .navbar-brand:hover {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+
+.nav .nav-link {
+    color: white;
+}
+
+.sobre-nos {
+    align-items: center;
+}
+
+#uniformes, .navbar-toggler {
+    background-color: #A3B18A;
+}
+
+.nav-colecoes .nav-link.active {
+    background-color: #344E41;
+    color: white;
+    font-weight: bold;
+}
+
+.nav-colecoes .nav-link {
+    color: black;
+}
+
+.title-font {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.social-links li i {
+    color:#344E41;
+    font-size: 1.5em;
+}
+
+#contatos button {
+    background-color: #344E41;
+    color: white;
+}
+
+#footer {
+    background-color: #344E41;
+    color: white;
+    align-items: center;
+}
+
+.erro {
+    color: white; 
+    background-color: red; 
+    display: none;
+}
